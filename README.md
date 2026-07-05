@@ -268,6 +268,8 @@ This project is built for educational and demonstration purposes.
 - Animations by Motion (Framer Motion)
 
 ---
+## Link
+https://cropadvice.netlify.app/
 
 **Built with ❤️ for Indian Farmers**
 
